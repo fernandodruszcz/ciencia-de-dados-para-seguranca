@@ -1,16 +1,12 @@
 *Dados da primeira linha do primeiro dispositivo como exemplo*
 
-Timestamp : 1537760161699
-
-FromInternetUdpPort53IP208.67.220.220/32Packet : 0
-
-FromInternetUdpPort53IP208.67.220.220/32Byte : 0
-
-ToInternetUdpPort53IP208.67.220.220/32Packet : 0
-
-ToInternetUdpPort53IP208.67.220.220/32Byte : 0
-FromLocalUdpPort67IP192.168.1.1Packet : 0
-FromLocalUdpPort67IP192.168.1.1Byte : 0
+Timestamp : 1537760161699  
+FromInternetUdpPort53IP208.67.220.220/32Packet : 0  
+FromInternetUdpPort53IP208.67.220.220/32Byte : 0  
+ToInternetUdpPort53IP208.67.220.220/32Packet : 0  
+ToInternetUdpPort53IP208.67.220.220/32Byte : 0  
+FromLocalUdpPort67IP192.168.1.1Packet : 0  
+FromLocalUdpPort67IP192.168.1.1Byte : 0  
 FromLocalIcmpPortAllIP192.168.1.1Packet : 10
 FromLocalIcmpPortAllIP192.168.1.1Byte : 980
 FromLocalUdpPort53IP192.168.1.1Packet : 2
