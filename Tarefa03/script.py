@@ -53,7 +53,6 @@ for i in csvs:
 
 atkInfoReader = pandas.read_excel('attackinfo.xlsx', 'Experiments')
 atkInfo = pandas.DataFrame(atkInfoReader, columns=['Attack'])
-print(atkInfo.shape)
 
 atkTypes = []
 for row in range(atkInfo.shape[0]):
